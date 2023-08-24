@@ -1,0 +1,8 @@
+Django==4.0.4
+djangorestframework==3.13.1
+psycopg2-binary
+python-dotenv==0.20.0
+django-filter==23.2,<24
+drf-spectacular>=0.26.0,<0.27.0
+pydantic==2.3.0
+requests==2.31.0
